@@ -16,3 +16,10 @@ h2  {
 
 }
 
+.about  {
+  position: absolute;
+  top: 880px;
+  left: 230px;
+  font-family: Verdana, sans-serif;
+}
+
