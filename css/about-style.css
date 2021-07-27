@@ -4,3 +4,12 @@ h1  {
   left: 350px;
   font-size: 300%;
 }
+
+.intro  {
+  position: absolute;
+  bottom: 400px;
+  left: 30px;
+  font-family: Verdana, sans-serif;
+
+}
+
