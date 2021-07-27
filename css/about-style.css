@@ -30,3 +30,11 @@ h1  {
 
 }
 
+img  {
+  position: absolute;
+  width: 600px;
+  height: 900px;
+  bottom:0px;
+  left: 850px;
+}
+
