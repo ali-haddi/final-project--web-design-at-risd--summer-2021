@@ -37,3 +37,10 @@ h2  {
   font-family: Verdana, sans-serif;
 }
 
+img {
+  position: absolute;
+  width: 600px;
+  height: 900px;
+  bottom:0px;
+  left: 850px;
+}
