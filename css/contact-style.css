@@ -6,3 +6,11 @@ h1  {
 
 }
 
+.name  {
+  position: absolute;
+  bottom: 400px;
+  left: 390px;
+  font-size: 150%;
+  font-family: Verdana, sans-serif;
+}
+
