@@ -21,3 +21,12 @@ h1  {
   left: 30px;
 }
 
+.practice  {
+  position: absolute;
+  font-family: Verdana, sans-serif;
+  bottom: 200px;
+  width: 800px;
+  left: 30px;
+
+}
+
