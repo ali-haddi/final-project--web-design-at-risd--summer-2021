@@ -14,3 +14,11 @@ h1  {
   font-family: Verdana, sans-serif;
 }
 
+.insta  {
+  position: absolute;
+  bottom: 350px;
+  left: 380px;
+  font-size: 150%;
+  font-family: Verdana, sans-serif;
+}
+
