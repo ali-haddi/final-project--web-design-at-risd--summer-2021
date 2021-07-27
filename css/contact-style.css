@@ -22,3 +22,12 @@ h1  {
   font-family: Verdana, sans-serif;
 }
 
+.email  {
+  position: absolute;
+  bottom: 290px;
+  left: 330px;
+  font-size: 150%;
+  font-family: Verdana, sans-serif;
+
+}
+
