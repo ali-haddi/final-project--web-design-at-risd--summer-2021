@@ -13,3 +13,11 @@ h1  {
 
 }
 
+.education  {
+  position: absolute;
+  font-family: Verdana, sans-serif;
+  bottom: 300px;
+  width: 800px;
+  left: 30px;
+}
+
