@@ -16,3 +16,10 @@ h1  {
   font-family: Georgia, serif;
 }
 
+h2  {
+  padding-top: 440px;
+  position: absolute;
+  left: 630px;
+  bottom: 200px;
+  font-family: Verdana, sans-serif;
+}
